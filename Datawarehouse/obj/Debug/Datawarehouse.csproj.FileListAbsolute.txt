@@ -1,0 +1,16 @@
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\obj\Debug\Datawarehouse.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\bin\Debug\Datawarehouse.exe.config
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\bin\Debug\Datawarehouse.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\bin\Debug\Datawarehouse.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\obj\Debug\Datawarehouse.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\obj\Debug\Datawarehouse.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\bin\Debug\PAD_04v1.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_04v1\Datawarehouse\bin\Debug\PAD_04v1.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\bin\Debug\Datawarehouse.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\bin\Debug\Datawarehouse.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\bin\Debug\Datawarehouse.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\bin\Debug\PAD_04v1.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\bin\Debug\PAD_04v1.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\obj\Debug\Datawarehouse.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\obj\Debug\Datawarehouse.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD_04v1\Datawarehouse\obj\Debug\Datawarehouse.pdb
